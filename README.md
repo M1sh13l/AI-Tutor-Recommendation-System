@@ -17,7 +17,6 @@ designed for personalized and fair tutor-student matching in the Saudi education
 
 - data/ → Student, Tutor, Curriculum, and Interaction datasets
 - src/ → Main recommendation system implementation
-- paper/ → IEEE conference paper
 - requirements.txt → Required dependencies
 
 ## Methodology
